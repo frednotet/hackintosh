@@ -37,5 +37,14 @@ Ready to start.
 To continue we need to erase the volume at /Volumes/USB.
 If you wish to continue type (Y) then press return: Y
 Erasing disk: 0%... 10%... 20%... 30%... 100%
-Copying to disk: 0%...
+Copying to disk: 0%... 10%... 20%... 30%... 40%... 50%... 60%... 70%... 80%... 90%... 100%
+Making disk bootable...
+Install media now available at "/Volumes/Install macOS Big Sur"
 ```
+
+- Prepare EFI Folder
+
+- handle `config.plist`.
+
+[https://dortania.github.io/OpenCore-Install-Guide/config.plist/skylake.html#starting-point](https://dortania.github.io/OpenCore-Install-Guide/config.plist/skylake.html#starting-point)
+
